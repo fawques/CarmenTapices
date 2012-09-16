@@ -1,0 +1,4 @@
+/* HUMANS.TXT */
+Developer & everything: Víctor Guzmán Pedrajas
+Twitter: @fawques
+Location: Alicante, Comunidad Valenciana, España
